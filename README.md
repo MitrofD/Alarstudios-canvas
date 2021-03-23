@@ -8,4 +8,6 @@
 - после билда появиться попка "build" в корне проекта и отуда можно запускать html в браузере
 
 ### Примечания
-сделал как на чистом так и на coffeescript, но на coffeescript я не пишу - моё чистый, typescript
+- все на линтах airbnb https://github.com/airbnb/javascript я это к вопросу читаемости кода
+- webpack собирал сам.Зависимостей нету, только для dev
+- сделал как на чистом так и на coffeescript, но на coffeescript я не пишу - моё чистый, typescript
