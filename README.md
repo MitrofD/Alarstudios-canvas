@@ -6,6 +6,7 @@
 - если надо запустить в dev режиме пишем yarn/npm run start для чистого и yarn/npm run coffee-start для coffeescript
 - если надо получить билд проекта пишем yarn/npm run build для чистого и yarn/npm run coffee-build для coffeescript
 - после билда появиться попка "build" в корне проекта и отуда можно запускать html в браузере
+- pure-build и coffee-build это сбилженные версии
 
 ### Примечания
 - все на линтах airbnb https://github.com/airbnb/javascript я это к вопросу читаемости кода
